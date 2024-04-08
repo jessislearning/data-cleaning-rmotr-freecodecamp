@@ -1,2 +1,3 @@
-# Data Science Course - Class 2
-_This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)_
+# Data Science Course
+This repository contains different notebooks from freeCodeCamp's Data Analysis with Python course
+(https://www.freecodecamp.org/learn/data-analysis-with-python)
